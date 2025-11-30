@@ -6,6 +6,12 @@
 
 Solveur de sudoku créé en MIPS32, capable de retourner la ou les solution(s) de remplissage d'une grille passée dans un fichier texte.
 
+![sudoku](sudoku.jpeg)
+
+## Équipe
+* **2 développeuses**
+* **3 semaines**
+
 ## Technologies utilisées
 
 **Langage :** Assembleur (MIPS 32)
